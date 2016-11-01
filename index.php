@@ -20,3 +20,5 @@ Joy::$di->get('loader')->registerNamespaces([
 ], true);
 (new \Joy\Web\Application())->run();
 
+1111111111111111222222222222222222222222222
+
