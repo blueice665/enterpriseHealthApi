@@ -20,4 +20,3 @@ Joy::$di->get('loader')->registerNamespaces([
 ], true);
 (new \Joy\Web\Application())->run();
 
-testinggggggggggggggggggggggggg!!!!!!
